@@ -1,0 +1,11 @@
+10K Ohm Resistro
+16x2 LCD
+Arduino UNO R3 ATmega 328p
+USB cable
+Baterai AA
+Baterai Holder
+I2C LCD Module
+Kabel jumper
+Micro Servo 9g
+Mini Red Dot Laser Push Button
+Sensor LDR
